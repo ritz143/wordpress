@@ -1,0 +1,30 @@
+/* 
+   Author     : ritesh
+*/
+.acs-search-form.acs-advanced-search-form > ul {
+    list-style: outside none none;
+}
+.acs-search-form.acs-advanced-search-form ul li {
+    list-style: outside none none !important;
+}
+.acs-advanced-search-form li{
+    width:250px;
+    margin-bottom: 10px;
+}
+.acs-advanced-search-form li h4{font-size: 14px; }
+.acs-advanced-search-form li input{
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+.acs-advanced-search-form .acs-level-tax {
+    background-color: #ccc;
+}
+.acs-advanced-search-form .acs-cat {
+    margin-left: 10px;
+}
+.acs-date-picker{z-index: 99999 !important;}
+.acs-advanced-search-form li select {    width:250px;}
+.acs-advanced-search-form li label {   font-weight: bold;}
+.acs-advanced-search-form li {width:250px;    margin-bottom: 10px;    margin-top: 20px;}
+
+.acs-advanced-search-form #wp_acs_taxonomy_category {overflow-y: auto;min-height: 100px;}

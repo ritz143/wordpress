@@ -1,0 +1,27 @@
+/* 
+    Created on : 10 Aug, 2017, 1:30:52 PM
+    Author     : ritesh
+*/
+.col-md-8 {
+    width: 66.6667%;
+}
+.acs-box .acs-box-container .form-table th{
+    color: #555;
+    font-size: 15px;
+    font-weight: 500;width:auto;}
+.acs-plugin-page .acs-box .acs-box-container {
+    padding: 0 30px 30px;
+}
+.acs-plugin-page .acs-box h1,h2,h3{color:#777;}
+.acs-plugin-page  h1.acs-page-heading{color:#777;text-transform: uppercase;}
+
+.acs-box-container {
+    width: 900px;
+}
+.acs-css-area {
+    width: 350px;
+}
+.acs-css-area textarea {
+    height: 150px;
+    width: 100%;
+}
